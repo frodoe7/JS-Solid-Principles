@@ -36,6 +36,7 @@ class Squirrel extends Animal {
         return 'squeak';
     }
 }
+
 class Snake extends Animal {
     makeSound() {
         return 'hiss';
