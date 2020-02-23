@@ -11,7 +11,7 @@ class Animal {
 }
 
 // ? This is example of a correct Single Responsibility , each class only do one job
-class AnimalClass {
+class Animal {
     constructor(name){ }
     getAnimalName() { }
 }
